@@ -1,4 +1,9 @@
 # Cours Python Maa
+## Ressources
+### Logiciels
+**Edupython (Windows uniquement)** : https://edupython.tuxfamily.org/  
+**Python pour terminal de commandes (Tous les systemes)** : https://www.python.org/downloads/  
+**JuPyter** : https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb  
 ## Notes de cours
 ### Rappel
 Assigner une valeur a une variable
