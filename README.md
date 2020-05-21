@@ -5,3 +5,8 @@ Assigner une valeur a une variable
 x = y
 ```
 On assigne a la variable x la valeur y
+
+Exemple de liste
+```python
+animaux = ['girafe', 'tigre', 'singe', 'souris']
+```
