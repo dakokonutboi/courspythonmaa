@@ -8,6 +8,8 @@ x = y
 On assigne a la variable x la valeur y
 
 ### Listes
+**IMPORTANT**  
+**La fiche de cours est disponible dans les fichiers. Cherchez 'Fiche de cours.pdf'**
 #### Introduction
 Exemple de liste :
 ```python
