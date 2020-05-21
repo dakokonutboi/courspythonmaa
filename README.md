@@ -14,7 +14,7 @@ Exemple de liste :
 animaux = ['girafe', 'tigre', 'singe', 'souris']
 ```
 #### Indices (Index)
-Les indices (index) d'elements d'une liste commencent a 0 et finissent a la longueur de la liste -1
+Les indices (index) d'elements d'une liste commencent a 0 et finissent a la longueur de la liste -1  
 Obtenir l'element de la liste x d'index y
 ```python
 x[y]
@@ -28,7 +28,7 @@ Resultat :
 `Element d'index 0 de la liste animaux : giraffe`
 
 #### Operations sur les listes
-Concatenation (addition) de listes
+Concatenation (addition) de listes  
 Mettre tous les elements de deux listes x et y dans une nouvelle liste z
 ```python
 x = [1,2,3]
